@@ -7,6 +7,8 @@
 
 - 🕴️ I’m a coach at [HackYourFuture](https://github.com/HackYourFutureBelgium)
 
+- 👨‍💻 All of my projects are available at [my portfolio](https://talmurshidi.github.io/talmurshidi/)
+
 - 🌱 I’m currently learning **Java SE 11**
 
 - 💬 Ask me about **Xamarin Forms**
