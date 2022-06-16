@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Tamer</h1>
-<h3 align="center">Mobile Application Developer - Xamarin Forms</h3>
+<h1 align="center">Hi 👋, I'm Tam</h1>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talmurshidi&label=Profile%20views&color=0e75b6&style=flat" alt="talmurshidi" /> </p>
 
-- 🔭 I’m currently working on [Android-Fatoorty](https://play.google.com/store/apps/details?id=com.salman.fatoorty) / [iOS-Fatoorty](https://apps.apple.com/us/app/id1531910357)
+- 💻 I’m an Application Manager at [KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00147498)
+<!-- - 🔭 I’m currently working on [Android-Fatoorty](https://play.google.com/store/apps/details?id=com.salman.fatoorty) / [iOS-Fatoorty](https://apps.apple.com/us/app/id1531910357) -->
 
-- 🕴️ I’m a coach at [HackYourFuture](https://github.com/HackYourFutureBelgium)
+- 🕴️ I’m a Coach at [HackYourFutureBelgium](https://github.com/HackYourFutureBelgium)
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://talmurshidi.github.io/talmurshidi/)
+<!-- - 👨‍💻 All of my projects are available at [my portfolio](https://talmurshidi.github.io/talmurshidi/) -->
 
-- 🌱 I’m currently learning **Java SE 11**
+<!-- - 🌱 I’m currently learning **Java SE 11** -->
 
-- 💬 Ask me about **Xamarin Forms**
+<!-- - 💬 Ask me about **Xamarin Forms** -->
 
 - 📫 How to reach me **taalmurshidi@gmail.com**
 
@@ -19,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/talmurhsidi/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619485856~hmac=1c7b615c6209e6a352b6548b33348127" alt="talmurshidi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/talmurhsidi/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="talmurshidi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
