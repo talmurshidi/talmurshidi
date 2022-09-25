@@ -14,7 +14,7 @@
 
 <!-- - 💬 Ask me about **Xamarin Forms** -->
 
-- 📫 How to reach me **taalmurshidi@gmail.com**
+- 📫 How to reach me **ta.almurshidi@gmail.com**
 
 - 📄 Know about my experiences [CV](https://drive.google.com/drive/folders/1wbKusBuzJEgD8rpjIT-cL_sNqLkHroBy?usp=sharing)
 
