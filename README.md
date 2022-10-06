@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talmurshidi&label=Profile%20views&color=0e75b6&style=flat" alt="talmurshidi" /> </p>
 
-- 💻 I’m an Application Manager at [KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00147498)
-<!-- - 🔭 I’m currently working on [Android-Fatoorty](https://play.google.com/store/apps/details?id=com.salman.fatoorty) / [iOS-Fatoorty](https://apps.apple.com/us/app/id1531910357) -->
+<!-- - 💻 I’m an Application Manager at [KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00147498) -->
+
+- 💻 I’am a Technical Support Consultant at [3b-Belgium](https://www.3b-belgium.org)
 
 - 🕴️ I’m a Coach at [HackYourFutureBelgium](https://github.com/HackYourFutureBelgium)
 
