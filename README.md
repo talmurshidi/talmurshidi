@@ -5,19 +5,19 @@
 
 <!-- - 💻 I’m an Application Manager at [KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00147498) -->
 
-- 💻 I’am a Technical Support Consultant at [3b-Belgium](https://www.3b-belgium.org)
+- 💻 I’am a System Administrator at [3b-Belgium](https://www.3b-belgium.org)
 
-- 🕴️ I’m a Coach at [HackYourFutureBelgium](https://github.com/HackYourFutureBelgium)
+- 🕴️ I’m a Programming Coach at [HackYourFutureBelgium](https://github.com/HackYourFutureBelgium)
 
 <!-- - 👨‍💻 All of my projects are available at [my portfolio](https://talmurshidi.github.io/talmurshidi/) -->
 
-<!-- - 🌱 I’m currently learning **Java SE 11** -->
+<!-- - 🌱 I’m currently learning **ASP.NET Core 6** -->
 
 <!-- - 💬 Ask me about **Xamarin Forms** -->
 
 - 📫 How to reach me **ta.almurshidi@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/drive/folders/1wbKusBuzJEgD8rpjIT-cL_sNqLkHroBy?usp=sharing)
+<!-- - 📄 Know about my experiences [CV](https://drive.google.com/drive/folders/1wbKusBuzJEgD8rpjIT-cL_sNqLkHroBy?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
