@@ -5,7 +5,7 @@
 
 <!-- - 💻 I’m an Application Manager at [KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00147498) -->
 
-- 💻 I’am a System Administrator at [3b-Belgium](https://www.3b-belgium.org)
+<!-- - 💻 I’m a System Administrator at [3b-Belgium](https://www.3b-belgium.org) -->
 
 - 🕴️ I’m a Programming Coach at [HackYourFutureBelgium](https://github.com/HackYourFutureBelgium)
 
